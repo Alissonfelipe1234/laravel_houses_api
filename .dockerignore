@@ -1,0 +1,5 @@
+.git
+.vscode
+.env.prod
+storage/logs
+storage/cache
